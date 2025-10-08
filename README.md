@@ -36,7 +36,6 @@ Um jogo de damas simplificado desenvolvido em Java, onde é possível jogar loca
 ## 📂 Estrutura do Projeto
 
 - `src/` → Código-fonte Java  
-- `lib/` → Bibliotecas externas necessárias para o jogo  
 - `bin/` → Classes compiladas  
 - `recursos/` → Imagens do tabuleiro e peças  
 - `saves/` → Ficheiros de texto com partidas guardadas (opcional)
